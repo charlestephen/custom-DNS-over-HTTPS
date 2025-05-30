@@ -261,3 +261,12 @@ unicast.uncensoreddns.org
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 www.digitale-gesellschaft.ch
+dns.google
+cloudflare-dns.com
+doh.opendns.com
+dns.adguard.com
+dns.quad9.net
+doh.cleanbrowsing.org
+dns.alternate-dns.com
+freedns.controld.com
+dns0.eu
